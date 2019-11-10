@@ -1,0 +1,4 @@
+site.url: https://meshery.io
+name: Meshery - the multi-service mesh management plane
+gems:
+  - jekyll-redirect-from
